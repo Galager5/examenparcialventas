@@ -9,13 +9,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace TuNombreProyecto
+namespace Ventasexamen
 {
     public partial class FormVentas : Form
     {
         private static int c1 = 0, c4 = 0, cM = 0, cont = 0;
         private static int sumM = 0, sumF = 0, sumNeto = 0;
-        private static string connectionString = "Data Source=NombreDelServidor;Initial Catalog=NombreDeLaBaseDeDatos;Integrated Security=True";
+        private static string connectionString = "Data Source=GALAGER;Initial Catalog=ventaslibros;Integrated Security=True";
 
         public FormVentas()
         {
