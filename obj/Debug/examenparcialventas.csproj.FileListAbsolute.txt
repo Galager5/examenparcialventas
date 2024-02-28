@@ -1,0 +1,7 @@
+D:\sofware 2\examen parcial\examenparcialventas\obj\Debug\examenparcialventas.csproj.AssemblyReference.cache
+D:\sofware 2\examen parcial\examenparcialventas\obj\Debug\examenparcialventas.csproj.SuggestedBindingRedirects.cache
+D:\sofware 2\examen parcial\examenparcialventas\obj\Debug\TuNombreProyecto.FormVentas.resources
+D:\sofware 2\examen parcial\examenparcialventas\obj\Debug\examenparcialventas.Properties.Resources.resources
+D:\sofware 2\examen parcial\examenparcialventas\obj\Debug\examenparcialventas.csproj.GenerateResource.cache
+D:\sofware 2\examen parcial\examenparcialventas\obj\Debug\examenparcialventas.csproj.CoreCompileInputs.cache
+D:\sofware 2\examen parcial\examenparcialventas\obj\Debug\examenparcialventas.FormVentas.resources
